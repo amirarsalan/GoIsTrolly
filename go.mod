@@ -1,3 +1,3 @@
-module goproxyctl.kybex.worker.dev/amirarsalan/withoutAuth
+module goproxyctl.kybex.workers.dev/amirarsalan/withoutAuth
 
 go 1.23.4
